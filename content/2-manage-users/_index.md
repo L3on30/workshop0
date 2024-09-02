@@ -1,5 +1,5 @@
 +++
-title = "Manage User"
+title = "Manage user"
 date = 2020-05-14T00:38:32+07:00
 weight = 2
 chapter = false

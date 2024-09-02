@@ -1,5 +1,5 @@
 +++
-title = "Host a Static Website"
+title = "Host a static website with AWS Amplify"
 date = 2020-05-14T00:38:32+07:00
 weight = 1
 chapter = false
