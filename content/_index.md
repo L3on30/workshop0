@@ -24,7 +24,7 @@ Before attending this workshop, participants should have:
 - **Familiarity with Git** and a **[GitHub account](https://github.com/)**.
 
 #### Application Architecture
-The architecture of this application includes several AWS services, such as **AWS Amplify**,  **AWS Lambda**, and **Amazon Bedrock**. The following diagram provides a visual representation of how these services are connected. Throughout the workshop, participants will learn about each service in detail and find additional resources to help them gain proficiency.
+The architecture of this application includes several AWS services, such as **AWS Amplify**,  **AWS Lambda**, **AWS AppSync** and **Amazon Bedrock**. The following diagram provides a visual representation of how these services are connected. Throughout the workshop, participants will learn about each service in detail and find additional resources to help them gain proficiency.
 
 ![Image](/images/AWS-workshop0.drawio.png?width=30pc)
 
