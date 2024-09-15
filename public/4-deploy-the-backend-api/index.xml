@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deploy the backend API on AI-Powered Serverless App with AWS</title>
-    <link>//localhost:1313/4-deploy-the-backend-api/</link>
+    <link>//localhost:62918/4-deploy-the-backend-api/</link>
     <description>Recent content in Deploy the backend API on AI-Powered Serverless App with AWS</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/4-deploy-the-backend-api/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:62918/4-deploy-the-backend-api/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

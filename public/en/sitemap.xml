@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/1-host-a-static-website/</loc>
+    <loc>//localhost:62918/1-host-a-static-website/</loc>
     <lastmod>2020-05-14T00:38:32+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-host-a-static-website/"
+                href="//localhost:62918/vi/1-host-a-static-website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-host-a-static-website/"
+                href="//localhost:62918/1-host-a-static-website/"
                 />
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>//localhost:62918/</loc>
     <lastmod>1970-01-01T07:33:44+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/"
+                href="//localhost:62918/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="//localhost:62918/"
                 />
   </url><url>
-    <loc>//localhost:1313/2-manage-users/</loc>
+    <loc>//localhost:62918/2-manage-users/</loc>
     <lastmod>2020-05-14T00:38:32+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-manage-users/"
+                href="//localhost:62918/vi/2-manage-users/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-manage-users/"
+                href="//localhost:62918/2-manage-users/"
                 />
   </url><url>
-    <loc>//localhost:1313/3-build-a-serverless-backend/</loc>
+    <loc>//localhost:62918/3-build-a-serverless-backend/</loc>
     <lastmod>2020-05-14T00:38:32+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-build-a-serverless-backend/"
+                href="//localhost:62918/vi/3-build-a-serverless-backend/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-build-a-serverless-backend/"
+                href="//localhost:62918/3-build-a-serverless-backend/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-deploy-the-backend-api/</loc>
+    <loc>//localhost:62918/4-deploy-the-backend-api/</loc>
     <lastmod>1970-01-01T07:33:40+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-deploy-the-backend-api/"
+                href="//localhost:62918/vi/4-deploy-the-backend-api/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-deploy-the-backend-api/"
+                href="//localhost:62918/4-deploy-the-backend-api/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-build-the-frontend/</loc>
+    <loc>//localhost:62918/5-build-the-frontend/</loc>
     <lastmod>1970-01-01T07:33:40+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-build-the-frontend/"
+                href="//localhost:62918/vi/5-build-the-frontend/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-build-the-frontend/"
+                href="//localhost:62918/5-build-the-frontend/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-clean-up-resources/</loc>
+    <loc>//localhost:62918/6-clean-up-resources/</loc>
     <lastmod>1970-01-01T07:33:40+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-clean-up-resources/"
+                href="//localhost:62918/vi/6-clean-up-resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-clean-up-resources/"
+                href="//localhost:62918/6-clean-up-resources/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>//localhost:62918/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/categories/"
+                href="//localhost:62918/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="//localhost:62918/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//localhost:62918/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/tags/"
+                href="//localhost:62918/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="//localhost:62918/tags/"
                 />
   </url>
 </urlset>
