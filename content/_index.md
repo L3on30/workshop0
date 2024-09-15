@@ -5,7 +5,7 @@ weight = 1
 chapter = false
 +++
 
-# Build a Serverless Web Application using Generative AI
+# AI-Powered Serverless App with AWS
 
 #### Overview
 In this workshop, I will do the process of using **AWS Amplify** to build a **serverless web application** powered by Generative AI, utilizing **Amazon Bedrock** and the **Claude 3 Sonnet** foundation model. The application will feature an HTML-based user interface for ingredient submission and a backend web application that handles requests for AI-generated recipes.

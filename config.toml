@@ -19,7 +19,7 @@ home = [ "HTML", "RSS", "JSON"]
   
 [Languages]
 [Languages.en]
-title = "AWS Account Setup"
+title = "AI-Powered Serverless App with AWS"
 weight = 1
 languageName = "English"
 
